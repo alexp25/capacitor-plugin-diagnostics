@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-diagnostics",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "rewrite of the cordova.plugins.diagnostic",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
